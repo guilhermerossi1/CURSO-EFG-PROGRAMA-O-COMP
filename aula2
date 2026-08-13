@@ -1,0 +1,11 @@
+nome = "Guilherme Rossi";
+idade = 27;
+peso = 80.5;
+empregado = True;
+
+## SÃO 4 PRINCIPAIS TIPOS DE DADOS NO PYTHON : STR/ INT / FLOAT / BOOL -------- TIPOS DE DADOS: definem qual tipo de informação está armazenado na variável
+
+print (nome);  ## ------ STR ( p/ textos)
+print (idade); ## ------ INT ( p/ números inteiros)
+print (peso); ## ------- FLOAT ( p/ números quebrados)
+print (empregado); ## ------ BOOL ( p/ TRUE or FALSE)
